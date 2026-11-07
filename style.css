@@ -137,7 +137,7 @@ label .close_btn {
 .hero_section {
     min-height: 100vh;
     /*background: var(--primary-color);*/
-    background-image: url("../Project\ 2/images/hero.png");
+    background-image: url("images/hero.png");
     background-size: cover;
     background-position: bottom;
 }
